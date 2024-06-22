@@ -15,3 +15,10 @@
 10. Pasta Térmica
 11. Memoria RAM
 12. Tipos de Memoria RAM
+13. Portas de Comunicação
+14. Gabinete
+15. Fonte de Alimentação
+16. HD, SDD
+17. Partições
+18. Eletricidade
+19. Segurança da Eletricidade
