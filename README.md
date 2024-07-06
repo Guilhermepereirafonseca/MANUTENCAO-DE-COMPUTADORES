@@ -39,3 +39,7 @@
 5. Coloque a fonte de alimentação
     - parafuse ela
 6. Conecte os cabos da fonte de alimentação
+
+## 💻🖥️ MONITORES
+### CRT (``Cathodic Ray Tube``)
+Antigo monitor que era utilizado antigamente
