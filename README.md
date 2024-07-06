@@ -42,4 +42,16 @@
 
 ## 💻🖥️ MONITORES
 ### CRT (``Cathodic Ray Tube``)
-Antigo monitor que era utilizado antigamente
+Monitor usado muito antigamente em computadores desktops e televisores para TV, infelizmente tinha varias **Desvantagens** veja algumas:
+- Suas dimensões, tendo 20 polegas e de profundidade 50cm e pesar mais de 20kg;
+- Consumo elevado de energia;
+- A possibilidade de emitir radiação, caso fique longos perídos de exposição pode ocorrer danos graves no olhos.
+
+### LCD (``Liquid Cristal Display``)
+Monitor composto por cristais que são polarizados para gerar as cores. Este tipo de monitor foi responsável por tirar o **CRT** do mercado, pois seu custo caiu muito, não compensando a aquisição de um CRT.
+Tem bastante **Vantagens** como:
+- Baixo consumo de energia;
+- Dimensões reduzidas;
+- A não-emissão de radições nocivas;
+- A capacidade de formar uma imagem praticamente perfeita, estável que cansa menos a visão - desde que esteja operando na resolução nativa;
+- Área útil da tela maior que dos **CRT**
