@@ -20,7 +20,7 @@
   - USB
   - Audio
 10. Remova as memorias RAM.
-11. Remiva o COOLER (tire os cabos primeiro).
+11. Remova o COOLER (tire os cabos primeiro).
 12. Remova o CPU (Processador).
 13. Tire a placa-mãe (tire todos os parafusos).
 
@@ -42,12 +42,18 @@
 
 ## 💻🖥️ MONITORES
 ### CRT (``Cathodic Ray Tube``)
+
+<img src="https://techterms.com/img/md/crt_364.png" width="40%">
+
 Monitor usado muito antigamente em computadores desktops e televisores para TV, infelizmente tinha varias **Desvantagens** veja algumas:
 - Suas dimensões, tendo 20 polegas e de profundidade 50cm e pesar mais de 20kg;
 - Consumo elevado de energia;
 - A possibilidade de emitir radiação, caso fique longos perídos de exposição pode ocorrer danos graves no olhos.
 
 ### LCD (``Liquid Cristal Display``)
+
+<img src="https://lafelseminovos.com.br/wp-content/uploads/2023/04/Monitor-lenovo-d1960wa-widescreen-4.webp" width="40%">
+
 Monitor composto por cristais que são polarizados para gerar as cores. Este tipo de monitor foi responsável por tirar o **CRT** do mercado, pois seu custo caiu muito, não compensando a aquisição de um CRT.
 Tem bastante **Vantagens** como:
 - Baixo consumo de energia;
