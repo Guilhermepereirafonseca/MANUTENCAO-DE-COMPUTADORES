@@ -40,6 +40,48 @@
     - parafuse ela
 6. Conecte os cabos da fonte de alimentação
 
+## 🔑💻 FORMATANDO O COMPUTADOR
+1. Antes acesse a bios do seu computador para ativar opção de inicializar com o pen drive.
+2. Coloque o pen drive na porta USB do seu Computador Desktop ou Laptop.
+3. Pressione o atalho da sua placa-mãe (leia o  manual da sua placa-mãe para ver qual o atalho correto) para acessar o Setup.
+4. Acesse a opção do menu chamada Boot (leia o manual para acessar corretamente) selecione o seu pendrive e coloque para inicializar na primeira posição
+- F10 salva as alterações do Setup/Bios.
+5. Logo após desligue e ligue novamene seu computador
+
+### PARTICIONAR O DISCO
+- Clique em novo;
+- Coloque 4000 (40GB), 51200 (50GB) \[[multiplica-se 50 por 1024](https://convertlive.com/pt/u/converter/gigabytes/em/megabytes)\];
+- Clique em `Ok`;
+- Cique no espaço não alocado e coloque o tamanho padrão definido pelo sistema;
+  - `Pode ocorrer alguns problemas, o sistema irá indicar o erro perfeitamente para o usuário configurar`
+
+## 🤖💻 SISTEMA OPERACIONAIS
+### WINDOWS (MICROSOFT)
+A Microsoft é a maior produtora de sistema operacionais des da decada de 80, seus sistemas são consideralmente caros, por isso a grande número muito alto de pirataria de seus softwares (Pacote Office, Windows 10, Windows 11, Windows 7). <br> <br>
+👨‍👩‍👦 **Família Windows**
+- Windows 3.11;
+- Windows 95;
+- Windows NT-Rede;
+- Windows 98;
+- Windows 2000;
+- Windows Me;
+- Windows XP;
+- Windows 7;
+- Windows LongHorn (Cancelado);
+- Windows Vista;
+- Windows 8;
+- Windows 8.1;
+- Windows 10;
+- Windows 11. <br> <br>
+
+🐧 Já o Linux desde sua criação, é considerado um software livre, ou seja, não tem custo para ser instalado em sua maquina. <br> <br>
+
+👨‍👩‍👦 **Exemplos de Distribuições
+- Kurumin - Linux Brasileiro;
+- Debian;
+- Red Hat;
+- Susi;
+- Ubuntu. <br> <br
 ## 💻🖥️ MONITORES
 ### CRT (``Cathodic Ray Tube``)
 
