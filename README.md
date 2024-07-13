@@ -76,7 +76,7 @@ A Microsoft é a maior produtora de sistema operacionais des da decada de 80, se
 
 🐧 Já o Linux desde sua criação, é considerado um software livre, ou seja, não tem custo para ser instalado em sua maquina. <br> <br>
 
-👨‍👩‍👦 **Exemplos de Distribuições
+👨‍👩‍👦 **Exemplos de Distribuições**
 - Kurumin - Linux Brasileiro;
 - Debian;
 - Red Hat;
