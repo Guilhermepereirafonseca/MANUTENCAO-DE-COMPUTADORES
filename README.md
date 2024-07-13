@@ -81,7 +81,7 @@ A Microsoft é a maior produtora de sistema operacionais des da decada de 80, se
 - Debian;
 - Red Hat;
 - Susi;
-- Ubuntu. <br> <br
+- Ubuntu. <br> <br>
 ## 💻🖥️ MONITORES
 ### CRT (``Cathodic Ray Tube``)
 
@@ -109,10 +109,20 @@ Já as **Desvantagens** são:
 - O "preto" que ele cria emite um pouco de luz, assim dando um aspecto acinzentado ou azulado (diferente dos monitores CRT)
 - Um fato não-divulgado pelos fabricantes se o crital líquido da tela do monitor for danificado e ficar exposto ao ar, pode emitir alguns composto tóxicos, lembrando que a vida util desse monitores são de **20 anos**
 
-<img src="https://images.philips.com/is/image/philipsconsumer/21af29956fce4091a21fb020008ecd70?$pnglarge$&wid=1250" width="40%">
+<img src="https://cdn.awsli.com.br/600x450/954/954868/produto/252838457/m20w-hoe-229gdh7ir2.png" width="40%">
 
 ### PLASMA
 Muito utilizado em televisores com tecnologia HDTV. Suas caracteristicas são iguais do **LCD** porém tem algumas diferenças. <br>
 Algumas delas são:
 - Os monitores contem celulas com gás;
 - São grandes chegando até em 50 polegadas;
+
+![image](https://github.com/user-attachments/assets/0938fd46-21d3-4142-9855-e9537b112294)
+
+### LED
+Tem a mesma características de monitores **LCD**, só que ao invés de uma única luz branca que incide sobre toda superfície da tela, há um painel com milhares de pequenas luzes coloridas e independentes, sua maior **Desvantagem** é o preço visto que é mais caro. <br>
+Já as **Vantagens** são:
+- Melhor qualidade de imagem (chegando ao negro profundo e branco, sendo que o LCD não atingia);
+- Melhor Brilho e Contraste;
+- Mais finos que monitores LCD;
+- Menor consumo de energia comparado com os de LCD.
