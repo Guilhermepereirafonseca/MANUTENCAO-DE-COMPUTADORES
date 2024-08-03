@@ -82,6 +82,11 @@ A Microsoft é a maior produtora de sistema operacionais des da decada de 80, se
 - Red Hat;
 - Susi;
 - Ubuntu. <br> <br>
+
+## 🔑 UTIlILITÁRIOS
+- [Kaspersky](https://www.kaspersky.com.br/downloads/antivirus) (***Melhor antivírus***) <br>
+- [Google Chrome](https://www.google.com/intl/pt-BR/chrome/next-steps.html?statcb=1&installdataindex=empty&defaultbrowser=0) (***Navegador de Internet mais utilizado***) <br>
+
 ## 💻🖥️ MONITORES
 ### CRT (``Cathodic Ray Tube``)
 
