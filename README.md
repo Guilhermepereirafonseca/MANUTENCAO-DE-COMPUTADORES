@@ -86,6 +86,7 @@ A Microsoft é a maior produtora de sistema operacionais des da decada de 80, se
 ## 🔑 UTIlILITÁRIOS
 - [Kaspersky](https://www.kaspersky.com.br/downloads/antivirus) (***Melhor antivírus***) <br>
 - [Google Chrome](https://www.google.com/intl/pt-BR/chrome/next-steps.html?statcb=1&installdataindex=empty&defaultbrowser=0) (***Navegador de Internet mais utilizado***) <br>
+- [VirutalBox](https://download.virtualbox.org/virtualbox/7.0.20/VirtualBox-7.0.20-163906-Win.exe "So clicar que irá baixar") (***Maquina Virtual***)
 
 ## 💻🖥️ MONITORES
 ### CRT (``Cathodic Ray Tube``)
