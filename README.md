@@ -17,14 +17,22 @@
   - Power
 
   - Reset
+
   - Leds ON/OFF
+
   - HD
+
   - USB
+  
   - Audio
+
 10. Remova as memorias RAM.
-11. Remova o COOLER (tire os cabos primeiro).
-12. Remova o CPU (Processador).
-13. Tire a placa-mãe (tire todos os parafusos).
+
+12. Remova o COOLER (tire os cabos primeiro).
+    
+14. Remova o CPU (Processador).
+    
+16. Tire a placa-mãe (tire todos os parafusos).
 
 ## 🖥️ MONTANDO UM COMPUTADOR
 
